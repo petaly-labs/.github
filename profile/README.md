@@ -2,7 +2,7 @@
 
 Petaly-Labs is the home of the Petaly open-source ELT tool and a suite of innovative tools designed to empower data professionals.
 
-Our mission is to simplify data movement and transformation across various platforms, delivering tools that directly meet the needs of the data community. Petaly, our flagship open-source ETL tool, facilitates smooth data exchange and supports PostgreSQL, MySQL, and CSV formats.
+Our mission is to simplify data movement and transformation across various platforms, delivering tools that directly meet the needs of the data community. Petaly, our flagship open-source ETL tool, facilitates smooth data exchange and supports PostgreSQL, MySQL, BigQuery, Goolge Storage, Redshift, S3-Bucket and CSV formats.
 
 We are dedicated to enhancing Petaly’s capabilities by integrating a range of data technologies. This tool is designed to be user-friendly, requiring no programming knowledge, with configurations easily managed in YAML format for quick setup and immediate operational use.
 
